@@ -16,7 +16,7 @@ import org.bukkit.event.HandlerList;
 public class RegionAdminCommand extends Command {
 
     public RegionAdminCommand() {
-        super("regiaoadmin", "Comandos region", "Use /kit", Lists.newArrayList());
+        super("regiaoadmin", "Comandos region", "Use /regiaoadmin", Lists.newArrayList());
     }
 
     @Override
